@@ -1,5 +1,22 @@
 # Booker
 
+![status: archived](https://img.shields.io/badge/status-archived-lightgrey)
+
+> **⚠️ Archived Repository**  
+> This project is no longer actively maintained.  
+> It remains available for reference and historical purposes.
+
+## Overview
+This project provided an application for creating and managing events, then inviting friends or colleagues to join them, offering a single source of truth for upcoming plans. A key feature was the ability to invite participants quickly without requiring an existing account. The intended use case included scenarios such as friends agreeing to an event in a pub and needing one central place to find the details afterwards.
+
+## Reason for Archive
+Booker has been rebranded, and all development has continued under the new name **Whenish**. The successor project enables users to create, manage, and delete both their public and private events, with simple invite‑URL sharing that requires no email addresses or pre‑existing accounts.
+
+## Successor
+- https://whenish.co.uk (Private repository)
+
+---
+
 ## Project Summary
 -
 
